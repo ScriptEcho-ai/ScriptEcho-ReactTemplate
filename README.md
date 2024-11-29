@@ -6,7 +6,7 @@ ScriptEcho React的模板项目
 - 获取项目代码
 
 ```bash
-git clone https://github.com/ScriptEcho-ai/ScriptEch-React.git
+git clone https://github.com/ScriptEcho-ai/ScriptEch-ReactTemplate.git
 ```
 
 - 安装依赖
